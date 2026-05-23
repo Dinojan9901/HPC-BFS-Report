@@ -5,41 +5,67 @@
 \@writefile{toc}{\contentsline {section}{\numberline {1}Introduction \& Background}{3}{section.1}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.1}Background}{3}{subsection.1.1}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.2}The Breadth-First Search (BFS) Algorithm}{3}{subsection.1.2}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces BFS traversal from source vertex 0. Colors indicate BFS levels.}}{3}{figure.caption.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces BFS traversal from source vertex 0. Colors indicate BFS levels (frontiers), demonstrating how vertices are discovered in a wave-like, level-synchronous manner.}}{3}{figure.caption.2}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.3}Why Parallelism?}{3}{subsection.1.3}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.4}Project Objectives}{4}{subsection.1.4}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.5}Experimental Setup}{4}{subsection.1.5}\protected@file@percent }
-\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Benchmark graph configurations and measured serial execution times.}}{4}{table.caption.3}\protected@file@percent }
 \@writefile{toc}{\contentsline {section}{\numberline {2}Parallel Implementations}{5}{section.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Graph Data Representation}{5}{subsection.2.1}\protected@file@percent }
-\@writefile{lol}{\contentsline {lstlisting}{\numberline {1}{\ignorespaces Graph data structure (Adjacency List)}}{5}{lstlisting.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}Serial Baseline}{5}{subsection.2.2}\protected@file@percent }
-\@writefile{lol}{\contentsline {lstlisting}{\numberline {2}{\ignorespaces Serial BFS implementation}}{5}{lstlisting.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.3}OpenMP (Shared Memory)}{6}{subsection.2.3}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Level-synchronous parallel BFS workflow.}}{6}{figure.caption.4}\protected@file@percent }
-\@writefile{lol}{\contentsline {lstlisting}{\numberline {3}{\ignorespaces OpenMP parallel BFS execution block}}{6}{lstlisting.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.4}MPI (Distributed Memory)}{7}{subsection.2.4}\protected@file@percent }
-\@writefile{lol}{\contentsline {lstlisting}{\numberline {4}{\ignorespaces MPI level synchronization loop}}{7}{lstlisting.4}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.5}CUDA (GPU Acceleration)}{8}{subsection.2.5}\protected@file@percent }
-\@writefile{lol}{\contentsline {lstlisting}{\numberline {5}{\ignorespaces CUDA BFS kernel implementation}}{8}{lstlisting.5}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.6}Summary of Parallelization Strategies}{9}{subsection.2.6}\protected@file@percent }
-\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Summary of parallelization paradigms, synchronization, and communication pathways.}}{9}{table.caption.5}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {3}Correctness Verification}{9}{section.3}\protected@file@percent }
-\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces Correctness verification matrix against the sequential baseline.}}{9}{table.caption.6}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {4}Results and Performance Analysis}{9}{section.4}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Complete Results}{10}{subsection.4.1}\protected@file@percent }
-\@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces Complete execution performance metrics on Small ($V=1,000$) and Large ($V=10,000$) graphs.}}{10}{table.caption.7}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}OpenMP Performance Analysis}{10}{subsection.4.2}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Conceptual illustration of the crossover point where parallel BFS execution becomes beneficial.}}{11}{figure.caption.8}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}MPI Performance Analysis}{11}{subsection.4.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.4}CUDA GPU Performance}{11}{subsection.4.4}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.5}Amdahl's Law Analysis}{12}{subsection.4.5}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {5}Interactive Graph Visualizer}{12}{section.5}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {6}Work Distribution}{12}{section.6}\protected@file@percent }
-\@writefile{lot}{\contentsline {table}{\numberline {5}{\ignorespaces Project task assignments and responsibilities.}}{13}{table.caption.9}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {7}Conclusion and Future Work}{13}{section.7}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {7.1}Summary of Work}{13}{subsection.7.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {7.2}Key Findings}{13}{subsection.7.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {7.3}What We Learned}{13}{subsection.7.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {7.4}Limitations and Future Work}{14}{subsection.7.4}\protected@file@percent }
-\gdef \@abspage@last{15}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Serial Baseline}{5}{subsection.2.1}\protected@file@percent }
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {1}{\ignorespaces Serial BFS core loop}}{5}{lstlisting.1}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Serial BFS terminal output ($V=30,000$, BFS time = 49.03 ms), which serves as our absolute baseline for correctness and unaccelerated execution time.}}{5}{figure.caption.3}\protected@file@percent }
+\providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
+\newlabel{fig:serial_out}{{2}{5}{Serial BFS terminal output ($V=30,000$, BFS time = 49.03 ms), which serves as our absolute baseline for correctness and unaccelerated execution time}{figure.caption.3}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}OpenMP (Shared Memory)}{5}{subsection.2.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Level-synchronous parallel BFS workflow (OpenMP). This structure allows multiple threads to safely share workload per level using atomic operations without data corruption.}}{6}{figure.caption.4}\protected@file@percent }
+\newlabel{fig:omp_flowchart}{{3}{6}{Level-synchronous parallel BFS workflow (OpenMP). This structure allows multiple threads to safely share workload per level using atomic operations without data corruption}{figure.caption.4}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {2}{\ignorespaces OpenMP atomic CAS for thread-safe vertex discovery}}{6}{lstlisting.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces OpenMP BFS terminal output (4 threads, BFS time = 325.37 ms). The longer execution time compared to the serial baseline illustrates the heavy overhead of managing thread barriers on a small graph.}}{7}{figure.caption.5}\protected@file@percent }
+\newlabel{fig:omp_out}{{4}{7}{OpenMP BFS terminal output (4 threads, BFS time = 325.37 ms). The longer execution time compared to the serial baseline illustrates the heavy overhead of managing thread barriers on a small graph}{figure.caption.5}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3}MPI (Distributed Memory)}{7}{subsection.2.3}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces MPI Distributed Memory layout: Vertex blocks are partitioned across ranks, and frontiers are synchronized via \texttt  {MPI\_Allgatherv} at the end of each level, enabling scale-out across multiple physical machines.}}{7}{figure.caption.6}\protected@file@percent }
+\newlabel{fig:mpi_diagram}{{5}{7}{MPI Distributed Memory layout: Vertex blocks are partitioned across ranks, and frontiers are synchronized via \texttt {MPI\_Allgatherv} at the end of each level, enabling scale-out across multiple physical machines}{figure.caption.6}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces MPI BFS terminal output (4 processes, BFS time = 140.68 ms). The communication overhead percentage explicitly shows how network synchronization penalizes the total execution time.}}{8}{figure.caption.7}\protected@file@percent }
+\newlabel{fig:mpi_out}{{6}{8}{MPI BFS terminal output (4 processes, BFS time = 140.68 ms). The communication overhead percentage explicitly shows how network synchronization penalizes the total execution time}{figure.caption.7}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.4}Hybrid MPI + OpenMP}{8}{subsection.2.4}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Hybrid MPI+OpenMP BFS terminal output (2 ranks $\times $ 2 threads, BFS time = 377.13 ms), showcasing the hierarchical approach combining network scaling with local multicore processing.}}{9}{figure.caption.8}\protected@file@percent }
+\newlabel{fig:hybrid_out}{{7}{9}{Hybrid MPI+OpenMP BFS terminal output (2 ranks $\times $ 2 threads, BFS time = 377.13 ms), showcasing the hierarchical approach combining network scaling with local multicore processing}{figure.caption.8}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.5}CUDA (GPU Acceleration)}{9}{subsection.2.5}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces CUDA GPU memory transfer and massively parallel 1D thread mapping. By offloading work to the GPU and flattening the graph, we can leverage thousands of lightweight cores simultaneously.}}{10}{figure.caption.9}\protected@file@percent }
+\newlabel{fig:cuda_diagram}{{8}{10}{CUDA GPU memory transfer and massively parallel 1D thread mapping. By offloading work to the GPU and flattening the graph, we can leverage thousands of lightweight cores simultaneously}{figure.caption.9}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {3}{\ignorespaces CUDA BFS kernel}}{10}{lstlisting.3}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces CUDA BFS terminal output (Tesla T4 GPU, CUDA time = 131.59 ms, correctness PASSED), demonstrating successful GPU kernel execution and verification.}}{11}{figure.caption.10}\protected@file@percent }
+\newlabel{fig:cuda_out}{{9}{11}{CUDA BFS terminal output (Tesla T4 GPU, CUDA time = 131.59 ms, correctness PASSED), demonstrating successful GPU kernel execution and verification}{figure.caption.10}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.6}Summary of Parallelization Strategies}{11}{subsection.2.6}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Summary of parallelization paradigms, synchronization, and communication pathways. This table highlights how the underlying memory architecture dictates the required synchronization mechanisms.}}{11}{table.caption.11}\protected@file@percent }
+\newlabel{tab:parallel_summary}{{1}{11}{Summary of parallelization paradigms, synchronization, and communication pathways. This table highlights how the underlying memory architecture dictates the required synchronization mechanisms}{table.caption.11}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Correctness Verification \& Accuracy Analysis}{11}{section.3}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Correctness and RMSE accuracy verification matrix ($V=30,000$). An RMSE of exactly 0 confirms that race conditions were successfully avoided and distance values are bit-perfect.}}{12}{table.caption.12}\protected@file@percent }
+\newlabel{tab:rmse}{{2}{12}{Correctness and RMSE accuracy verification matrix ($V=30,000$). An RMSE of exactly 0 confirms that race conditions were successfully avoided and distance values are bit-perfect}{table.caption.12}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Results and Performance Analysis}{12}{section.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Timing Results}{12}{subsection.4.1}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces Execution performance metrics on Google Colab ($V=30,000$, $E \approx 22.5 \times 10^6$). The massive CUDA speedup validates the GPU's superiority for highly parallel, memory-bound graph workloads.}}{12}{table.caption.13}\protected@file@percent }
+\newlabel{tab:timing}{{3}{12}{Execution performance metrics on Google Colab ($V=30,000$, $E \approx 22.5 \times 10^6$). The massive CUDA speedup validates the GPU's superiority for highly parallel, memory-bound graph workloads}{table.caption.13}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Complete Scaling Results}{13}{subsection.4.2}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces Complete execution times and internal speedups on WSL ($V=30,000$). These numbers expose how scaling behaves differently when tested locally on a smaller problem scale.}}{13}{table.caption.14}\protected@file@percent }
+\newlabel{tab:complete_scaling}{{4}{13}{Complete execution times and internal speedups on WSL ($V=30,000$). These numbers expose how scaling behaves differently when tested locally on a smaller problem scale}{table.caption.14}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Speedup and Scaling Analysis}{13}{subsection.4.3}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces Execution time scaling for OpenMP and MPI on the small $V=30,000$ graph. The upward slope for MPI proves that adding more workers to a small problem severely degrades performance due to communication bottlenecks.}}{13}{figure.caption.15}\protected@file@percent }
+\newlabel{fig:scaling_plot}{{10}{13}{Execution time scaling for OpenMP and MPI on the small $V=30,000$ graph. The upward slope for MPI proves that adding more workers to a small problem severely degrades performance due to communication bottlenecks}{figure.caption.15}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4}Visualizer Performance Charts}{14}{subsection.4.4}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {11}{\ignorespaces Speedup vs. Threads/Processes and Parallel Efficiency charts from the HPC BFS Visualizer. These plots visually summarize how well each algorithm scales compared to the theoretical ideal.}}{14}{figure.caption.16}\protected@file@percent }
+\newlabel{fig:perf_charts}{{11}{14}{Speedup vs. Threads/Processes and Parallel Efficiency charts from the HPC BFS Visualizer. These plots visually summarize how well each algorithm scales compared to the theoretical ideal}{figure.caption.16}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {12}{\ignorespaces Detailed timing breakdown table, MPI communication overhead chart, and analysis notes from the Visualizer, providing a complete dashboard view of the benchmark metrics.}}{15}{figure.caption.17}\protected@file@percent }
+\newlabel{fig:perf_table}{{12}{15}{Detailed timing breakdown table, MPI communication overhead chart, and analysis notes from the Visualizer, providing a complete dashboard view of the benchmark metrics}{figure.caption.17}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.5}OpenMP Performance Analysis}{15}{subsection.4.5}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {13}{\ignorespaces Conceptual illustration of the crossover point where parallel BFS execution becomes beneficial. This explains why serial execution is faster for small graphs, but parallelization dominates at massive scale.}}{16}{figure.caption.18}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.6}MPI and Hybrid Performance Analysis}{16}{subsection.4.6}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.7}CUDA GPU Performance}{16}{subsection.4.7}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.8}Amdahl's Law Analysis}{17}{subsection.4.8}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {5}Interactive Graph Visualizer}{17}{section.5}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {14}{\ignorespaces HPC BFS Visualizer showing level-by-level OpenMP BFS traversal animation with thread-colored frontier nodes. This custom web tool proved essential for visually verifying that threads were properly distributing the workload without data races.}}{17}{figure.caption.19}\protected@file@percent }
+\newlabel{fig:visualizer}{{14}{17}{HPC BFS Visualizer showing level-by-level OpenMP BFS traversal animation with thread-colored frontier nodes. This custom web tool proved essential for visually verifying that threads were properly distributing the workload without data races}{figure.caption.19}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {6}Conclusion}{18}{section.6}\protected@file@percent }
+\bibcite{bfs}{1}
+\bibcite{amdahl}{2}
+\bibcite{cuda}{3}
+\gdef \@abspage@last{20}

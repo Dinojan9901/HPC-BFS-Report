@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.8)  23 MAY 2026 12:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.8)  23 MAY 2026 21:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -659,13 +659,140 @@ File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 z/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )))
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.rev
+ision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.cod
+e.tex
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscore
+.code.tex
+\t@pgfplots@toka=\toks38
+\t@pgfplots@tokb=\toks39
+\t@pgfplots@tokc=\toks40
+\pgfplots@tmpa=\dimen296
+\c@pgfplots@coordindex=\count345
+\c@pgfplots@scanlineindex=\count346
+
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplots
+sysgeneric.code.tex))
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfplot
+slibrary.code.tex)
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompat
+ib\pgfplotsoldpgfsupp_loader.code.tex
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryfpu.code.tex)
+Package pgfplots: loading complementary utilities for your pgf version...
+\t@pgf@toka=\toks41
+\t@pgf@tokb=\toks42
+\t@pgf@tokc=\toks43
+
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompat
+ib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex))
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sutil.code.tex
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsliststructure.code.tex)
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsliststructureext.code.tex)
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count347
+)
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsmatrix.code.tex)
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\pgf
+plotstableshared.code.tex
+\c@pgfplotstable@counta=\count348
+\t@pgfplotstable@a=\toks44
+)
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsdeque.code.tex)
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sbinary.code.tex
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sbinary.data.code.tex))
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sutil.verb.code.tex)
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibr
+arypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count349
+
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflibra
+rypgfplots.surfshading.pgfsys-pdftex.def)))
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+scolormap.code.tex
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+scolor.code.tex))
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsstac
+kedplots.code.tex)
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsplot
+handlers.code.tex
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmesh
+plothandler.code.tex
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmesh
+plotimage.code.tex)))
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.sca
+ling.code.tex)
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscoor
+dprocessing.code.tex)
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.err
+orbars.code.tex)
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.mar
+kers.code.tex)
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotstick
+s.code.tex)
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.pat
+hs.code.tex)
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.code.tex
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+decorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen297
+\pgfdecoratedremainingdistance=\dimen298
+\pgfdecoratedinputsegmentcompleteddistance=\dimen299
+\pgfdecoratedinputsegmentremainingdistance=\dimen300
+\pgf@decorate@distancetomove=\dimen301
+\pgf@decorate@repeatstate=\count350
+\pgfdecorationsegmentamplitude=\dimen302
+\pgfdecorationsegmentlength=\dimen303
+)
+\tikz@lib@dec@box=\box69
+)
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.pathmorphing.code.tex
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.pathmorphing.code.tex))
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.pathreplacing.code.tex
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.pathreplacing.code.tex))
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlib
+rarypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count351
+\pgfplots@xmin@reg=\dimen304
+\pgfplots@xmax@reg=\dimen305
+\pgfplots@ymin@reg=\dimen306
+\pgfplots@ymax@reg=\dimen307
+\pgfplots@zmin@reg=\dimen308
+\pgfplots@zmax@reg=\dimen309
+)
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
 (C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
 aryarrows.meta.code.tex
 File: pgflibraryarrows.meta.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfarrowinset=\dimen296
-\pgfarrowlength=\dimen297
-\pgfarrowwidth=\dimen298
-\pgfarrowlinewidth=\dimen299
+\pgfarrowinset=\dimen310
+\pgfarrowlength=\dimen311
+\pgfarrowwidth=\dimen312
+\pgfarrowlinewidth=\dimen313
 )
 (C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z/libraries\tikzlibrarypositioning.code.tex
@@ -675,69 +802,83 @@ File: tikzlibrarypositioning.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 z/libraries\tikzlibrarycalc.code.tex
 File: tikzlibrarycalc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryfit.code.tex
+File: tikzlibraryfit.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@layerbox@background=\box70
+\pgf@layerboxsaved@background=\box71
+)
 (C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count345
-\float@exts=\toks38
-\float@box=\box69
-\@float@everytoks=\toks39
-\@floatcapt=\box70
+\c@float@type=\count352
+\float@exts=\toks45
+\float@box=\box72
+\@float@everytoks=\toks46
+\@floatcapt=\box73
 )
 (C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
 
 (C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen300
-\captionmargin=\dimen301
-\caption@leftmargin=\dimen302
-\caption@rightmargin=\dimen303
-\caption@width=\dimen304
-\caption@indent=\dimen305
-\caption@parindent=\dimen306
-\caption@hangindent=\dimen307
+\caption@tempdima=\dimen314
+\captionmargin=\dimen315
+\caption@leftmargin=\dimen316
+\caption@rightmargin=\dimen317
+\caption@width=\dimen318
+\caption@indent=\dimen319
+\caption@parindent=\dimen320
+\caption@hangindent=\dimen321
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count346
-\c@continuedfloat=\count347
+\c@caption@flags=\count353
+\c@continuedfloat=\count354
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 )
-(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count355
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count356
+) (C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2025/11/14 1.11b listings language file
-)
-(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+) (C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2025/11/14 1.11b listings language file
-)
-(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+) (C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
 )
 (C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count348
+\l__color_backend_stack_int=\count357
 ) (progress_report.aux)
 \openout1 = `progress_report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -777,17 +918,17 @@ LaTeX Font Info:    ... okay on input line 41.
 (C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count349
-\scratchdimen=\dimen308
-\scratchbox=\box71
-\nofMPsegments=\count350
-\nofMParguments=\count351
-\everyMPshowfont=\toks40
-\MPscratchCnt=\count352
-\MPscratchDim=\dimen309
-\MPnumerator=\count353
-\makeMPintoPDFobject=\count354
-\everyMPtoPDFconversion=\toks41
+\scratchcounter=\count358
+\scratchdimen=\dimen322
+\scratchbox=\box74
+\nofMPsegments=\count359
+\nofMParguments=\count360
+\everyMPshowfont=\toks47
+\MPscratchCnt=\count361
+\MPscratchDim=\dimen323
+\MPnumerator=\count362
+\makeMPintoPDFobject=\count363
+\everyMPtoPDFconversion=\toks48
 )
 (C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -799,123 +940,183 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\c@lstlisting=\count355
-Package hyperref Info: Link coloring OFF on input line 41.
+\c@lstlisting=\count364
+Package hyperref Info: Link coloring OFF on input line 44.
  (progress_report.out) (progress_report.out)
 \@outlinefile=\write4
 \openout4 = `progress_report.out'.
 
+
+Package pgfplots notification 'compat/show suggested version=true': document ha
+s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
+
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
- [1
-
-{C:/Users/dinoj/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 66.
-
+LaTeX Font Info:    Trying to load font information for U+msa on input line 60.
 
 (C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 66.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 60.
 
 
 (C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+[1
+
+{C:/Users/dinoj/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.69 \newpage
+l.74 \newpage
               [1] (progress_report.toc)
 \tf@toc=\write5
 \openout5 = `progress_report.toc'.
 
- [2]
-Overfull \hbox (7.73326pt too wide) in paragraph at lines 126--127
+ [2] [3]
+Overfull \hbox (7.73326pt too wide) in paragraph at lines 131--132
 []\OT1/cmr/bx/n/12 Synchronization Over-head: \OT1/cmr/m/n/12 Thread safety mus
 t be guar-an-teed when mul-ti-ple threads
  []
 
-[3] [4]
+[4]
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 174.
+nput line 168.
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10> not available
-(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 175.
- [5]
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 169.
+<serial_out.png, id=176, 448.074pt x 170.43675pt>
+File: serial_out.png Graphic file (type png)
+<use serial_out.png>
+Package pdftex.def Info: serial_out.png  used on input line 186.
+(pdftex.def)             Requested size: 341.43307pt x 129.87393pt.
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 2
-28.
-
-(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
+20.
+ (C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
 File: omscmr.fd 2024/11/19 v2.5n Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 228.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 220.
 
-(HPC/graph_bfs_omp.cpp [6]) (HPC/graph_bfs_mpi.cpp [7]) [8]
-Overfull \hbox (58.8139pt too wide) in paragraph at lines 302--312
+[5 <./serial_out.png>]
+<omp_out.png, id=201, 439.04025pt x 185.493pt>
+File: omp_out.png Graphic file (type png)
+<use omp_out.png>
+Package pdftex.def Info: omp_out.png  used on input line 248.
+(pdftex.def)             Requested size: 341.43307pt x 144.25656pt.
+ [6]
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 289.
+
+Overfull \hbox (3.86325pt too wide) in paragraph at lines 298--299
+[]\OT1/cmr/m/n/12 At the end of the level, ranks par-tic-i-pate in col-lec-tive
+ com-mu-ni-ca-tion (\OT1/cmtt/m/n/12 MPI[]Allgather
+ []
+
+[7 <./omp_out.png>]
+<mpi_out.png, id=238, 443.256pt x 239.6955pt>
+File: mpi_out.png Graphic file (type png)
+<use mpi_out.png>
+Package pdftex.def Info: mpi_out.png  used on input line 306.
+(pdftex.def)             Requested size: 341.43307pt x 184.63557pt.
+
+Overfull \hbox (16.51909pt too wide) in paragraph at lines 317--318
+[]\OT1/cmr/m/n/12 Ranks syn-chro-nize counts and dis-cov-ered ar-rays us-ing \O
+T1/cmtt/m/n/12 MPI[]Allgather \OT1/cmr/m/n/12 and \OT1/cmtt/m/n/12 MPI[]Allgath
+erv
+ []
+
+<hybrid_out.png, id=240, 452.892pt x 245.11575pt>
+File: hybrid_out.png Graphic file (type png)
+<use hybrid_out.png>
+Package pdftex.def Info: hybrid_out.png  used on input line 324.
+(pdftex.def)             Requested size: 341.43307pt x 184.79758pt.
+[8 <./mpi_out.png>] [9 <./hybrid_out.png>]
+<cuda_out.png, id=255, 154.176pt x 138.5175pt>
+File: cuda_out.png Graphic file (type png)
+<use cuda_out.png>
+Package pdftex.def Info: cuda_out.png  used on input line 408.
+(pdftex.def)             Requested size: 227.62206pt x 204.50809pt.
+ [10]
+Underfull \hbox (badness 10000) in paragraph at lines 422--422
+[]\OT1/cmr/m/n/12 Iterative queue
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
+[]\OT1/cmr/m/n/12 Dynamic loop
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--424
+[]\OT1/cmr/m/n/12 Vertex block
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--424
+[]\OT1/cmr/m/n/12 Allgather col-lec-
+ []
+
+
+Underfull \hbox (badness 7888) in paragraph at lines 424--425
+[]\OT1/cmr/m/n/12 Network TCP/IP loop-
+ []
+
+
+Underfull \hbox (badness 3240) in paragraph at lines 425--425
+[]\OT1/cmr/m/n/12 Block ranges +
+ []
+
+
+Underfull \hbox (badness 2165) in paragraph at lines 426--426
+[]\OT1/cmr/m/n/12 1D grid thread-
+ []
+
+
+Underfull \hbox (badness 1354) in paragraph at lines 426--426
+[]\OT1/cmr/m/n/12 Device atomic in-
+ []
+
+[11 <./cuda_out.png>]
+Overfull \hbox (36.85324pt too wide) in paragraph at lines 476--487
  [][] 
  []
 
-
-Overfull \hbox (72.92264pt too wide) in paragraph at lines 329--338
- [][] 
- []
-
-[9]
-Overfull \hbox (9.94452pt too wide) in paragraph at lines 359--359
-[]\OT1/cmr/bx/n/12 Configuration| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 372--372
-[]\OT1/cmr/m/n/12 256
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 385--385
-[]\OT1/cmr/m/n/12 256
- []
-
-[10]
-Overfull \hbox (1.63661pt too wide) in paragraph at lines 428--429
-\OT1/cmtt/m/n/12 MPI[]Allgatherv \OT1/cmr/m/n/12 at ev-ery sin-gle BFS level. C
-ol-lec-tive com-mu-ni-ca-tion in-curs millisecond-
- []
-
-[11]
-(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
-File: lstlang1.sty 2025/11/14 1.11b listings language file
-)
-(C:\Users\dinoj\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
-File: lstlang1.sty 2025/11/14 1.11b listings language file
-)
-Overfull \hbox (51.30318pt too wide) in paragraph at lines 479--490
- [][] 
- []
-
-[12]
-Overfull \hbox (2.93884pt too wide) in paragraph at lines 498--499
-\OT1/cmr/m/n/12 forms: se-quen-tial base-line, OpenMP shared-memory, MPI distri
-buted-memory, and CUDA
- []
-
-[13] [14] (progress_report.aux)
+[12] [13]
+<visualizer_performance_1.png, id=311, 869.649pt x 392.06474pt>
+File: visualizer_performance_1.png Graphic file (type png)
+<use visualizer_performance_1.png>
+Package pdftex.def Info: visualizer_performance_1.png  used on input line 578.
+(pdftex.def)             Requested size: 432.48051pt x 194.97897pt.
+<visualizer_performance_2.png, id=312, 870.25125pt x 413.74574pt>
+File: visualizer_performance_2.png Graphic file (type png)
+<use visualizer_performance_2.png>
+Package pdftex.def Info: visualizer_performance_2.png  used on input line 585.
+(pdftex.def)             Requested size: 432.48051pt x 205.62234pt.
+ [14 <./visualizer_performance_1.png>] [15 <./visualizer_performance_2.png>] [1
+6]
+<visualizer_traversal.png, id=335, 1134.639pt x 544.434pt>
+File: visualizer_traversal.png Graphic file (type png)
+<use visualizer_traversal.png>
+Package pdftex.def Info: visualizer_traversal.png  used on input line 654.
+(pdftex.def)             Requested size: 432.48051pt x 207.51842pt.
+ [17 <./visualizer_traversal.png>] [18] [19] (progress_report.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
 Package rerunfilecheck Info: File `progress_report.out' has not changed.
-(rerunfilecheck)             Checksum: 5EA86B1E47B11553CBB304C0A566E23F;4638.
+(rerunfilecheck)             Checksum: C7C0FBBE3C16BCED638DAA6248F6DBCF;4552.
  ) 
 Here is how much of TeX's memory you used:
- 25170 strings out of 467871
- 461063 string characters out of 5418377
- 1347321 words of memory out of 5000000
- 53471 multiletter control sequences out of 15000+600000
- 637676 words of font info for 77 fonts, out of 8000000 for 9000
+ 35744 strings out of 467871
+ 818589 string characters out of 5418377
+ 1586193 words of memory out of 5000000
+ 63965 multiletter control sequences out of 15000+600000
+ 638012 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,11n,94p,1438b,2028s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,19n,94p,1114b,2254s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\dinoj\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1200.pk><C:/Users/dinoj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/dinoj/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -931,12 +1132,14 @@ dinoj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C
 /cm/cmr6.pfb><C:/Users/dinoj/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
 msfonts/cm/cmr8.pfb><C:/Users/dinoj/AppData/Local/Programs/MiKTeX/fonts/type1/p
 ublic/amsfonts/cm/cmsy10.pfb><C:/Users/dinoj/AppData/Local/Programs/MiKTeX/font
-s/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/dinoj/AppData/Local/Programs/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/dinoj/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on progress_report.pdf (15 pages, 289835 bytes).
+s/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/dinoj/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/dinoj/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/dinoj/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/dinoj
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on progress_report.pdf (20 pages, 575994 bytes).
 PDF statistics:
- 474 PDF objects out of 1000 (max. 8388607)
- 190 named destinations out of 1000 (max. 500000)
- 229 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 463 PDF objects out of 1000 (max. 8388607)
+ 138 named destinations out of 1000 (max. 500000)
+ 253 words of extra memory for PDF output out of 10000 (max. 10000000)
 

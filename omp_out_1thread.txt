@@ -1,0 +1,13 @@
+Generating undirected graph: V=30000, density=0.05, source=0, seed=42
+Running parallel BFS (OpenMP, 1 threads) from source node 0 ...
+
+(Adjacency list omitted for V > 200)
+
+Distance array (hops from node 0):
+  distance 0 : 1 nodes
+  distance 1 : 1491 nodes
+  distance 2 : 28508 nodes
+
+Graph stats: 22493929 edges, 30000/30000 vertices reachable from node 0
+OpenMP threads: 1
+Timing: graph generation 27844.1 ms, parallel BFS 454.652 ms

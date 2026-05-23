@@ -1,0 +1,18 @@
+Generating undirected graph: V=30000, density=0.05, source=0, seed=42
+Running MPI BFS (2 processes) from source node 0 ...
+
+(Adjacency list omitted for V > 200)
+
+Distance array (hops from node 0):
+  distance 0 : 1 nodes
+  distance 1 : 1491 nodes
+  distance 2 : 28508 nodes
+
+Graph stats: 22493929 edges, 30000/30000 vertices reachable from node 0
+MPI processes: 2
+Timing: graph generation 12342.9 ms, MPI BFS 88.1706 ms
+
+--- MPI Timing Breakdown ---
+  Computation time: 81.926 ms
+  Communication time: 5.98497 ms
+  Communication overhead: 6.78794%
